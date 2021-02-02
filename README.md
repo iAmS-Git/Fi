@@ -1,2 +1,3 @@
 # Fi
-Criptomoneda
+Fi es una AltCoin (criptografia Scrypt)
+
